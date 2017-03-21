@@ -22,6 +22,7 @@
 		C93EF7181E80CDD4003D6552 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C93EF71B1E80CDD4003D6552 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C93EF71D1E80CDD4003D6552 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C93EF7231E80D76B003D6552 /* sample.custom */ = {isa = PBXFileReference; lastKnownFileType = file; path = sample.custom; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				C93EF7181E80CDD4003D6552 /* Assets.xcassets */,
 				C93EF71A1E80CDD4003D6552 /* LaunchScreen.storyboard */,
 				C93EF71D1E80CDD4003D6552 /* Info.plist */,
+				C93EF7231E80D76B003D6552 /* sample.custom */,
 			);
 			path = CustomUTISample;
 			sourceTree = "<group>";
@@ -300,6 +302,7 @@
 				C93EF7221E80CDD4003D6552 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
